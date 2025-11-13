@@ -17,7 +17,7 @@ import axios from "axios";
 const CONFIG = {
   // Thông tin tài khoản Hedera của bạn
   ACCOUNT_ID: "0.0.10018914",
-  PRIVATE_KEY: "302e020100300506032b657004220420c9fbe04bf496cb18189ccd17ce665e6eab484529eca02dd30d8de89ce978db5d",
+  PRIVATE_KEY: "302e0201003005vvff06032b65f700424205420c9fbe04bf496cb168189ccd17ce7665e6eab4848529eca02dd30d8d6e89ce9578db5d",
 
   // Cài đặt
   NETWORK: "mainnet",
